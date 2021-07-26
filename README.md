@@ -50,8 +50,13 @@ Referências:
 ---
 ## 5. Análise espacial 28/06
 
+[Apresentação](https://drive.google.com/file/d/1T5pt-glW82LZc43VK7caJUXQsXeEi-BT/view?usp=sharing)
 ---
 ## 6. Exercício 05/07
+
+[Arquivo Orange](https://drive.google.com/file/d/1vqOZrdhbGu9H0UO8Gd-Ftk8I5Qr7nl4k/view?usp=sharing)
+
+[Dados](https://drive.google.com/file/d/1Eu-jFZzRlyJg9_UgiTQKcbKmJkjUZ6JB/view?usp=sharing)
 
 ---
 ## 7. Classificação de sentimentos 12/07
